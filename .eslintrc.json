@@ -1,0 +1,13 @@
+{
+  "env": {
+    "browser": true,
+    "node": true
+  },
+  "extends": [
+    "standard",
+    "standard-jsx",
+    "plugin:prettier/recommended",
+    "prettier/react"
+  ],
+  "parser": "babel-eslint"
+}
